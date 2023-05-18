@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grafika3", "grafika3\grafika3.csproj", "{454ED916-94DC-4024-92E6-F52E1C558AD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454ED916-94DC-4024-92E6-F52E1C558AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454ED916-94DC-4024-92E6-F52E1C558AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454ED916-94DC-4024-92E6-F52E1C558AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454ED916-94DC-4024-92E6-F52E1C558AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A1F268C-AFB8-42D5-9207-FF0F2C07356F}
+	EndGlobalSection
+EndGlobal

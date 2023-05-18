@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\grafika1\grafika1\bin\Debug\grafika1.exe.config
+C:\Users\PC\source\repos\grafika1\grafika1\bin\Debug\grafika1.exe
+C:\Users\PC\source\repos\grafika1\grafika1\bin\Debug\grafika1.pdb
+C:\Users\PC\source\repos\grafika1\grafika1\obj\Debug\grafika1.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\grafika1\grafika1\obj\Debug\grafika1.Form1.resources
+C:\Users\PC\source\repos\grafika1\grafika1\obj\Debug\grafika1.Properties.Resources.resources
+C:\Users\PC\source\repos\grafika1\grafika1\obj\Debug\grafika1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\grafika1\grafika1\obj\Debug\grafika1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\grafika1\grafika1\obj\Debug\grafika1.exe
+C:\Users\PC\source\repos\grafika1\grafika1\obj\Debug\grafika1.pdb
